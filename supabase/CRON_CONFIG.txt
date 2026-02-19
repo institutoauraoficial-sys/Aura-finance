@@ -18,9 +18,7 @@
 
 ================================================================================
 
-⬇️ COLE SEU PROJECT REFERENCE ID AQUI:
-
-https://zkchlgadlggeixqrkrim.supabase.co
+PROJECT_ID=zkchlgadlggeixqrkrim
 
 ================================================================================
 
